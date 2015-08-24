@@ -1,5 +1,4 @@
 # AWAODORINo.0
-Application.
 
 飲酒抑制アプリNommanakatter
 ---------------------------
